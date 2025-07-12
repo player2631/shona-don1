@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(241, 173, 241);
+    color: rgb(125, 108, 108);
+    text-align: center;
+}
+p{
+    font-family: cursive ;
+    background-color: rgb(172, 243, 243);
+    color: rgb(120, 86, 86);
+}
+img{
+    height: 200px; width: 200px;
+}
